@@ -1,6 +1,7 @@
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
 	  🚀✅ E-commerce com API ViaCEP - Concluído ✅🚀
+	
 	**JavaScript + Fetch + API ViaCEP + DOM + HTML + CSS**
 </h1>
 
