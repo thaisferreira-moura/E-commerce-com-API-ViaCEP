@@ -38,7 +38,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Este projeto foi desenvolvido durante meus estudos em Desenvolvimento de Software Multiplataforma, com o objetivo de praticar conceitos de desenvolvimento Front-End e integração com APIs.
+O ViaCep foi desenvolvido durante meus estudos em Desenvolvimento Front-End, com o objetivo de praticar JavaScript e integração com APIs.
 
 A aplicação simula uma página de e-commerce, apresentando um produto com informações como nome, avaliação, preço, desconto, cores disponíveis e opção de adicionar ao carrinho.
 
